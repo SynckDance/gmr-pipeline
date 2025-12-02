@@ -1,0 +1,22 @@
+COMPARISON: Bata_dance_Sinclair vs Esapkaide_Sinclair__2_
+==================================================
+
+Overall Similarity: 5.2%
+
+These dances show relatively DISTINCT movement patterns.
+
+DISTINCT PATTERNS (low similarity):
+  • wrist_R ↔ ankle_R: 5.3% match
+  • elbow_L ↔ knee_R: 5.2% match
+  • wrist_L ↔ ankle_L: 5.2% match
+  • elbow_R ↔ knee_L: 5.2% match
+  • toe_L ↔ toe_R: 5.2% match
+  • head ↔ center_of_gravity: 5.2% match
+  • hand_R ↔ hip_L: 5.2% match
+  • hand_L ↔ hip_R: 5.1% match
+  • hand_L ↔ hand_R: 5.1% match
+  • shoulder_L ↔ shoulder_R: 5.0% match
+
+KEY OBSERVATIONS:
+  • Different hand/arm patterns (5.1% avg)
+  • Different footwork patterns (5.2% avg)

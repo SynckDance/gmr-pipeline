@@ -1,0 +1,26 @@
+======================================================================
+GLOBAL MOVEMENT RESEARCH - MULTI-DANCE COMPARISON REPORT
+======================================================================
+
+Number of dances analyzed: 2
+Dances: Bata_dance_Sinclair, Esapkaide_Sinclair__2_
+
+PAIRWISE SIMILARITY MATRIX
+----------------------------------------
+             Bata_dan  Esapkaid
+Bata_dance_S     1.00      0.05
+Esapkaide_Si     0.05      1.00
+
+IDENTIFIED CLUSTERS (threshold: 50% similarity)
+----------------------------------------
+Cluster 1: Bata_dance_Sinclair
+Cluster 2: Esapkaide_Sinclair__2_
+
+
+SUMMARY STATISTICS
+----------------------------------------
+Average pairwise similarity: 5.2%
+Most similar pair: Bata_dance_Sinclair & Esapkaide_Sinclair__2_ (5.2%)
+Least similar pair: Bata_dance_Sinclair & Esapkaide_Sinclair__2_ (5.2%)
+
+======================================================================
